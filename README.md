@@ -75,7 +75,8 @@ LTV / CAC = 1 520 / 4 000 = **0,38**. LTV < CAC: бизнес теряет де�
 
 ### Lean Canvas №2 (B2B, модель после пивота)
 
-![Uploading image.png…]()
+<img width="1777" height="1041" alt="image" src="https://github.com/user-attachments/assets/803f6467-3bb1-4f5f-aa5d-98a1fc412db0" />
+
 
 
 
