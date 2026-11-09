@@ -219,7 +219,22 @@ LTV / CAC = 1 520 / 4 000 = **0,38**. LTV < CAC: бизнес теряет де�
 *   **И:** запрос автоматически ставится в очередь на повторную обработку в фоне.
 
 ## 3. Wireframes (ключевые экраны)
+Экран 1. Входной тест
 
+<img width="301" height="288" alt="image" src="https://github.com/user-attachments/assets/e4cb20a4-887d-4822-b793-4ddaec1a5132" />
+
+
+Экран 2. Личный кабинет сотрудника
+
+<img width="318" height="291" alt="image" src="https://github.com/user-attachments/assets/67f04ea6-035d-4f41-9aab-647eb28d0a5f" />
+
+Экран 3. Экран урока
+
+<img width="307" height="272" alt="image" src="https://github.com/user-attachments/assets/5b1f30d5-77bb-4874-b648-31a6e558f9db" />
+
+Экран 4. Админ-панель L&D-менеджера
+
+<img width="311" height="275" alt="image" src="https://github.com/user-attachments/assets/ac4fb84e-3827-403d-805d-1d95cd724363" />
 
 ## 4. API-First (JSON-контракты)
 
