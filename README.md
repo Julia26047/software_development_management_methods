@@ -304,12 +304,14 @@ LTV / CAC = 1 520 / 4 000 = **0,38**. LTV < CAC: бизнес теряет де�
 
 Уровень 1. Контекст системы
 
-<img width="1266" height="906" alt="image" src="https://github.com/user-attachments/assets/b4d4141c-d9a8-4a1d-a35c-12c2981c91f9" />
+<img width="950" height="633" alt="image" src="https://github.com/user-attachments/assets/8a3e7cca-ff1e-4e82-8185-d91abeb24793" />
+
 
 
 Уровень 2. Контейнеры
 
-<img width="1390" height="1338" alt="image" src="https://github.com/user-attachments/assets/f673c3f3-515f-468f-be2d-7f9da5486c7a" />
+<img width="1157" height="895" alt="image" src="https://github.com/user-attachments/assets/fdf52491-2cf5-484f-a8dd-77f748927720" />
+
 
 
 **2. Стек технологий и обоснование для MVP**
