@@ -310,7 +310,7 @@ LTV / CAC = 1 520 / 4 000 = **0,38**. LTV < CAC: бизнес теряет де�
 
 Уровень 2. Контейнеры
 
-<img width="1157" height="895" alt="image" src="https://github.com/user-attachments/assets/fdf52491-2cf5-484f-a8dd-77f748927720" />
+<img width="1035" height="888" alt="image" src="https://github.com/user-attachments/assets/f9c3357a-ce55-4fd5-a577-4499098c987e" />
 
 
 
